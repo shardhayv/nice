@@ -6,7 +6,7 @@
   "scripts": {
     "start": "NODE_ENV=production & nodemon server.js"
   },
-  "author": "Kiran Rana",
+  "author": "Shardhay Vatshyayan",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
